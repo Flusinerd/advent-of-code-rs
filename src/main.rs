@@ -1,3 +1,6 @@
 mod day1;
+mod day2;
 
-fn main() {}
+fn main() {
+    day2::day2();
+}
